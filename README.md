@@ -9,3 +9,8 @@ Blue pill or Red pill?
 - Blue
 
 Does pineapple belong on pizza ?
+
+- Absolutely! 
+
+Where do you live?
+
