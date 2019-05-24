@@ -14,3 +14,6 @@ Does pineapple belong on pizza ?
 
 Where do you live?
 
+Hasselt
+
+What rhymes with orange ?
